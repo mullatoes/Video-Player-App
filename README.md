@@ -1,7 +1,3 @@
-Here's a better and cleaner `README.md` file for your video player app, including details about the features and setup instructions:
-
----
-
 # Video Player App
 
 A Flutter-based video player application that displays a list of YouTube video links and allows users to play videos. It also supports advanced features like **Picture-in-Picture (PiP) mode** for enhanced multitasking.
